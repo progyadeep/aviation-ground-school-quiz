@@ -1,0 +1,45 @@
+.top-down-margin-true{
+    margin:6% 0 6% 0;
+}
+
+ActionBar Label{
+	horizontal-align:left;
+	font-size:22px;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 40%;
+    color: brown;
+    text-align: center;
+    margin-bottom:80px;
+}
+
+.butt1{
+    color: white;
+    margin:20px 0 20px;
+    padding:50px;
+    background-color: cornflowerblue;
+    width:60%;
+}
+
+.optionButt{
+    padding:50px;
+	visibility: collapse;
+}
+
+#next{
+	visibility: collapse;
+}
+
+.text1{
+    color: black;
+    font-size:22px;
+    margin-bottom:50px;
+	font-style:italic;
+}
+
+.subtext{
+	text-align:center;
+	margin-top:50px;
+}

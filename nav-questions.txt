@@ -1,0 +1,31 @@
+Sun appears at same latitude;Once a year,Twice a year,Once a day;2
+Seasons are due to;Earth's elliptical orbit around the sun,inclination of polar axis with the ecliptic plane,earth's rotation on its polar axis;1
+Earth is farthest from the sun at the;Beginning of January,End of December,Beginning of July;3
+Earth is closest to the sun at the;End of June,Beginning of July,Beginning of January;3
+Angle between plane of ecliptic & plane of equator is;66.5 degrees,23.5 degrees,27.5 degrees;2
+In its path around the sun, the axis of the earth has an inclination;of 66.5 degrees with the plane of the path,varying between 0 and 23.5 degrees with the plane of the path,varying with the season of the year;1
+The mean sun;Is only of interest to users of astronomical navigation,Moves with constant speed along celestial equator,Is the middle position of the earth;2
+Direction of earth's rotation is such that;Observed from the point above North pole the rotation is anti-clockwise,Any point on the surface of the earth will move eastward,Any point on the surface will move westward;1
+When length of day is measured with reference to the passage of the apparent sun, the length of day will be;same once every month,will vary with latitude of observer,will vary in the course of the year;3
+All heavenly bodies rise;In the east,In the west,Some in the east and some on the west;1
+The times for sunrise, sunset, morning and evening twilight are given in the air almanac in;UTC,Standard time,LMT;3
+Civil Twilight is defined by;sun upper edge tangential to horizon,sun altitude is 6 degrees below celestial horizon,sun altitude is 18 degree below celestial horizon;2
+Maximum difference between geocentric & geodetic latitudes occurs at;0 degree,90 degrees,45 degrees;3
+Ratio of ellipticity is 1/297. If major axis is 6956 Km, what is the length of minor axis?;6879 Km,6862 Km,6932 Km;3
+Great circle is any circle whose;radius is same as that of earth,plane passes through center of earth,both are correct;3
+Shortest distance between any two points is;a straight line joining them on a map,shorter arc of the great circle joining them,rhumb line joining them;2
+A meridian is;a semi great circle,line joining places of same latitude,semi great circle joining places of same longitude;3
+Calculate longitudanal distance and approximate heading from B (57N 176W) to A (60N 177E).;351 & 310,7 & 130,7 & 310;2
+Radio navigation charts use:;Lambert's Conformal Conic projection,Mercator's projection,IMPP;1
+Meridians and parallels of latitude intersect at right angles on:;Mecator's projection,Lambert's projection,Both;3
+Charts are used only for;Flying over seas,D R navigation,Polar navigation;1
+Convergency on a Lambert's conformal conic chart is;same as earth convergency at parallel of origin,same as the scale,most accurate at standard parallels;1
+On a transverse mercator chart, scale is correct only along the;meridian of tangency,prime meridian,standard latitudes;1
+On a Lambert's conformal conic chart, the distance between parallels of latitude spaced the same number of degrees apart;increases between and reduces outside the parallels,reduces between and expands outside the standard parallels,is constant between the standard parallels;2
+Which statement is correct concerning the appearance of great circles, with the exception of meridians, on a polar stereographic chart whose tangency is at the pole?;the higher the latitude the more they approximate to a straight line,the lower the latitude the more they approximate to a straight line,they never approximate to straight lines;1
+What is the convergence factor of a polar stereographic chart?;2,1.5,1;3
+A perfectly straight line on a Lambert's chart is;a parallel of latitude,a rhumb line,a meridian of longitude;3
+The scale on a Mercator's projection;is correct on the standard parallels but expands outside and contracts within them,expands directly with the secant of the latitude,expands as the secant(1/2 of co-latitude);2
+Convergency on a Transverse mercator chart is correct;at the datum meridian and the equator,at the equator and the poles,only at the datum meridian;2
+The scale on a Lambert's conformal conic chart;is constant,is constant along a parallel of latitude,is contant along a meridian of longitude;2
+On a Lambert's conformal conic chart, great circles that are not meridians are;curves concave to the pole of projection,straight lines within the standard parallels,curves concave to the parallel of origin;3

@@ -1,0 +1,13 @@
+<Page loaded="pageLoaded" actionBarHidden="true">
+    <ScrollView>
+        <StackLayout class="top-down-margin-true">
+            <Label textWrap="true" text="Ground Theory Quiz" class="logo" />
+			<Button class="butt1" text="Air Navigation" tap="startQuiz" cat="0" /> 
+            <Button class="butt1" text="Meteorology" tap="startQuiz" cat="1" />
+            <Button class="butt1" text="Air Regulation" tap="startQuiz" cat="2" />
+            <Button class="butt1" text="Technical General" tap="startQuiz" cat="3" />
+			<Button class="butt1" text="Random" tap="startQuiz" cat="4" style="background-color:darkcyan;"/>
+			<Label class="subtext" id="appversion" text="App version: 1.7.4" />
+        </StackLayout>
+    </ScrollView>
+</Page>
